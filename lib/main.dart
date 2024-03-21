@@ -17,3 +17,5 @@ class SearchMate extends StatelessWidget {
     );
   }
 }
+
+
