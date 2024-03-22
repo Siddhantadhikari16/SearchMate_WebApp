@@ -1,16 +1,4 @@
-# search_mate
+# SEARCH MATE
+SEARCH MATE is a Flutter-based WebApp browser With an intuitive interface, Search Mate simplifies navigation through the internet, ensuring seamless performance across devices. Notable features include a one-tap page refresh option for swift updates, a convenient homepage button for effortless navigation, and pull-to-refresh functionality for instant content updates. Additionally, Search Mate empowers users with unrestricted search capabilities, enabling seamless exploration of any topic. Embrace the future of browsing with Search Mate – your gateway to a faster, more intuitive web experience.
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
