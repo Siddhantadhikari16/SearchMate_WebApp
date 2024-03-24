@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:search_mate/HomePage.dart';
+import 'package:search_mate/SplashScreen.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
@@ -12,10 +12,8 @@ class SearchMate extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
-      home: HomePage(),
+      home: SplashScreen(),
       debugShowCheckedModeBanner: false,
     );
   }
 }
-
-
